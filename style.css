@@ -1,0 +1,45 @@
+.background{
+    background: linear-gradient(110deg, #BAD8B6 60%, #E1EACD 60%);
+}
+
+.background-two{
+    background: linear-gradient(45deg, #E1EACD 60%,  #BAD8B6 60%);
+}
+
+.background-three{
+    background-color: #8D77AB;
+}
+
+.background-three .btn-dark{
+    background-color:#8D77AB;
+    border: none;
+}
+
+#nav-bar .btn{
+    background-color: #637262;
+    color: white;
+}
+
+#home .btn{
+    background-color: #637262;
+    color: #E1EACD;
+
+}
+
+#benefit-of-elevate-life-coach{
+    background-color: #E1EACD;
+    color: #637262;
+}
+
+.btn-dark{
+    background-color: #637262;
+    border: none;
+}
+
+.newsletter{
+    color: #637262;
+}
+
+#footer li p{
+    color: #637262;
+}
